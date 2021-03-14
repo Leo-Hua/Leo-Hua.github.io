@@ -7,6 +7,12 @@
 ]]></content>
   </entry>
   <entry>
+    <title>commenttest</title>
+    <url>/2021/03/14/commenttest/</url>
+    <content><![CDATA[<p>留下你的评论</p>
+]]></content>
+  </entry>
+  <entry>
     <title>passwordtest</title>
     <url>/2021/03/14/passwordtest/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -21,11 +27,5 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-  </entry>
-  <entry>
-    <title>commenttest</title>
-    <url>/2021/03/14/commenttest/</url>
-    <content><![CDATA[<p>留下你的评论</p>
-]]></content>
   </entry>
 </search>
