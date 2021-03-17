@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>downloadtest</title>
-      <link href="2021/03/17/downloadtest/"/>
-      <url>2021/03/17/downloadtest/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://gitee.com/Leo_Hua/resourse/raw/master/a%20b%20problem.cpp" target="_blank">a+b problem简单题解</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>passwordtest</title>
-      <link href="2021/03/14/passwordtest/"/>
-      <url>2021/03/14/passwordtest/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="580244dd9b0ea51a768376478be01502a58d3eae78d8a1b199482d5be0f5b74a">10d79030e8222445804370796b90fca1ebe12b7f9f860f4e84f4c2f05f3095d5e9792e98e5e0e746f8f399e7de79757828c92190e1dc603e73e1d66006175900</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">密码是hello</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>commenttest</title>
-      <link href="2021/03/14/commenttest/"/>
-      <url>2021/03/14/commenttest/</url>
-      
-        <content type="html"><![CDATA[<p>留下你的评论</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>3.14</title>
-      <link href="2021/03/14/3.14/"/>
-      <url>2021/03/14/3.14/</url>
-      
-        <content type="html"><![CDATA[<p>hello world</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>3.14</title>
+    <url>/2021/03/14/3.14/</url>
+    <content><![CDATA[<p>hello world</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>commenttest</title>
+    <url>/2021/03/14/commenttest/</url>
+    <content><![CDATA[<p>留下你的评论</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>downloadtest</title>
+    <url>/2021/03/17/downloadtest/</url>
+    <content><![CDATA[<p>下载方法：点击链接进入后右键 选择另存为 删去文件后缀.txt 后点保存<br><a href="https://gitee.com/Leo_Hua/resourse/raw/master/a%20b%20problem.cpp" target="_blank">a+b problem简单题解</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>passwordtest</title>
+    <url>/2021/03/14/passwordtest/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="580244dd9b0ea51a768376478be01502a58d3eae78d8a1b199482d5be0f5b74a">10d79030e8222445804370796b90fca1ebe12b7f9f860f4e84f4c2f05f3095d5e9792e98e5e0e746f8f399e7de79757828c92190e1dc603e73e1d66006175900</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">密码是hello</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
 </search>
